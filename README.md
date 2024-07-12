@@ -1,6 +1,7 @@
 # Minor_Project
 REAL E-COMMERCE USING REACT JS
-![Uploading README.png…]()
+![README](https://github.com/user-attachments/assets/15d8e399-f8b9-4c4e-824e-6a9b2b0db52a)
+
 
 An 8 page e-commerce website with the home page, product detail page, cart and checkout page, under 20 page,
 under 40 page, for him page, for her page, journal page.
